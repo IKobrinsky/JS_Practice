@@ -20,7 +20,7 @@ if (checkedNumber<=0)
 
 if (checkedNumber>1000)
 {
-  console.log("Число должно быть меньше 1000!");
+  console.log("Число должно быть не больше 1000!");
   return -1;
 }
 
